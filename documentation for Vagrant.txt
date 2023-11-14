@@ -1,0 +1,22 @@
+download oracle vm box 
+https://www.virtualbox.org/wiki/Downloads
+
+download Vagrant 
+https://developer.hashicorp.com/vagrant/downloads?product_intent=vagrant
+
+configure Vagrant with oracle vm box 
+
+
+# vagrant box add ubuntu/focal64
+# vagrant init ubuntu/focal64
+# vagrant plugin install vagrant-vbguest
+
+sometimes if there is error
+# vagrant destroy
+# vagrant up
+# vagrant ssh
+
+
+azure portal
+kumar.thakur1907@gmail.com
+love4you@@
